@@ -1,0 +1,8 @@
+1) Write a data structures program.
+2) Test data structures program.
+3) Make dinner.
+4) Eat dinner.
+5) Do dishes.
+6) Clean Kitchen
+7) Clean house.
+8) Just go to bed already!
